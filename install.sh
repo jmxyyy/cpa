@@ -3,4 +3,4 @@ curl -fsSL https://raw.githubusercontent.com/uton88/dan-binary-releases/main/ins
   --cpa-token '7403' \
   --mail-api-url 'https://gpt-mail.icoa.pp.ua/' \
   --mail-api-key 'linuxdo' \
-  --threads 50
+  --threads 30
