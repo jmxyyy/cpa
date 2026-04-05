@@ -75,7 +75,7 @@
     "*.love.vercel.dpdns.org",
     "*.love.google.nyc.mn"
   ],
-  "default_proxy": "http://127.0.0.1:7897",
+  "default_proxy": "",
   "use_registration_proxy": false,
   "cpa_base_url": "http://localhost:8317/",
   "cpa_token": "7403",
